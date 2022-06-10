@@ -1,7 +1,7 @@
 ### Hi there 👋 It is pleasure to see you here 
 
-### My is Daniil Sokolov
-### I'm a final year Computer Science student who is enjoying of doing programming.
+### My name is Daniil
+### I'm a final year Computer Science student who is enjoying of programming.
 
 
 - 🔭 I’m currently working on creating a games using react.js
