@@ -1,7 +1,7 @@
 ### Hi there 👋 It is pleasure to see you here 
 
 ### My name is Daniil
-### I'm the person who enjoys of programming.
+### I'm the person who enjoys programming.
 
 
 - 🔭 I’m currently working on creating ecommerce application using react.js
