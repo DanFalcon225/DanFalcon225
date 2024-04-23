@@ -9,5 +9,6 @@
 - 👯 I’m looking to collaborate in open source projects
 - 📫 How to reach me? follow my linkedIn (link in bio)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 
 
