@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniil
 ==============================================================================================================================
 
-Web Developer | Computer Science Graduate | Turning Passion for Coding into Skills
-----------------------------------------------------------------------------------
+Web Developer | Computer Science Graduate | Turning Passion for Coding into Skills | MBCS
+-----------------------------------------------------------------------------------------
 
 I'm an IT professional with two years of industry experience and a first-class honours degree in Computer Science. Skilled in both front-end and back-end development, with expertise in JavaScript, React, PHP, and SQL. I've been coding for about 5 years, both during university and in my free time. Despite facing challenges, they've led to some exciting achievements, including winning the award for the best undergraduate project in Computer Science and Applied Computing in 2022.
 
